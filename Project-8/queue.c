@@ -3,7 +3,7 @@
 
 /* Adit Syed Afnan
  * Data Structures CSCI-230
- * Project 9: Queue Implementation
+ * Project 8: Queue Implementation
  * Date: 2025-05-06
  *
  * This file contains the complete implementation of a Queue data structure

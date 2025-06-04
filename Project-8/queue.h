@@ -1,6 +1,6 @@
 /* Adit Syed Afnan
  * Data Structures CSCI-230
- * Project 9: Queue Data Structure Header File
+ * Project 8: Queue Data Structure Header File
  * Date: 2025-05-06
  *
  * This header file defines the structures and function prototypes for a
