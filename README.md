@@ -11,3 +11,6 @@ Chaining- Hash Function
 Tree
 Graph
 Arrays 
+Queue/DeQueue
+Stack
+Reversing a String
