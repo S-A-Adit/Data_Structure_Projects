@@ -4,7 +4,7 @@
 #define STR_LENGTH 80;
 /* Adit Syed 
 Data Structures CSCI-230
-Project 5
+Project 4
 3/24/2025 (current date)
 Project 5. This file has both the main and the code for designing the Doubly Linked List. 
 Node here refers to the newly made structure and not the default node. 
