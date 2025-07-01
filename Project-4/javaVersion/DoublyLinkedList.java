@@ -1,4 +1,4 @@
-package project_5;
+
 
 public class DoublyLinkedList {
 	private Node head;
