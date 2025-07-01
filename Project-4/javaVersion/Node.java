@@ -1,7 +1,6 @@
-package project_5;
 
 public class Node {
-	int key;
+    int key;
     Node next;
     Node prev;
 
